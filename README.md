@@ -12,7 +12,7 @@ Excel'deki konum verilerini toplu işler: adresleri koordinata, koordinatları a
 **[Route Optimizer](https://github.com/muratmuradilmert/route-optimizer)**
 Saha ziyaretlerini planlar: Excel'deki noktaları, ziyaret kurallarını ve çalışma günlerini okur, ziyaretleri günlere dağıtır ve her günün en verimli sırasını Google Route Optimization API ile belirler.
 
-### Google Play'deki uygulamalarım
+### Ayrıca Google Play'deki uygulamalarım
 
 **[Block L: Blok Bulmaca Oyunu](https://play.google.com/store/apps/details?id=com.muradl.blockl)**
 Android için blok bulmaca oyunu.
@@ -20,23 +20,4 @@ Android için blok bulmaca oyunu.
 **[muradL IPTV Player](https://play.google.com/store/apps/details?id=com.muradl.iptvplayer)**
 Android telefon ve Android TV için medya oynatıcı: M3U ve Xtream Codes kaynakları, favoriler, son izlenenler, ses ve altyazı seçimi.
 
-### Uzmanlık
 
-Saha operasyon yönetimi · Ekip liderliği · KPI / OKR tanımları · Excel · Power BI · Veri analizi ve raporlama
-
----
-
-<details>
-<summary>English</summary>
-
-I have spent 15+ years in field operations in the market research industry, from Auditor at Ipsos Türkiye to Field Operations Senior Manager at REM People, running large-scale field audit operations for leading FMCG, pharma and telecom brands. I build AI-assisted tools that make everyday field work easier:
-
-- **[POI Verification](https://github.com/muratmuradilmert/poi-verification)**: batch geocoding, reverse geocoding and location validation for POIs from Excel ([live demo](https://muratmuradilmert.github.io/poi-verification/)).
-- **[Route Optimizer](https://github.com/muratmuradilmert/route-optimizer)**: field visit planning and daily route optimization with the Google Route Optimization API.
-
-On Google Play:
-
-- **[Block L](https://play.google.com/store/apps/details?id=com.muradl.blockl)**: a block puzzle game for Android.
-- **[muradL IPTV Player](https://play.google.com/store/apps/details?id=com.muradl.iptvplayer)**: a media player for Android phones and Android TV (M3U and Xtream Codes sources).
-
-</details>
